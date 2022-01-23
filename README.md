@@ -2,9 +2,10 @@
 
 Olá, eu sou o José Addario. Sou um dev apaixonado por programação, motivado por desafios e sempre procurando me aperfeiçoar para oferecer um código de melhor qualidade. A maior parte da minha carreira foquei em trabalhos Backend, com uma maior atuação com a linguagem JAVA onde eu desenvolvi um forte conhecimento de Programação Orientada a Objetos, TDD, Design Patterns e Clean Code.
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando: docker, kubernets e AWS
+- 💻 Hoje trabalho com back-end
+- 🔭 Estudando: docker, kubernets e AWS
 - 😄 Pronouns: Ele/Dele | He/Him
+- 📑 Objetivos para 2022: Melhorar meus stats no Github 😃
 
 <!--Github Stats-->
 <div align="center">
