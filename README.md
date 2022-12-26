@@ -5,7 +5,7 @@ Hi, I'm José Addario. I'm a passionate software engineer, motivated by challeng
 - 💻 Work: Backend developer
 - 🔭 Studying: docker, kubernets e AWS
 - 😄 Pronouns: Ele/Dele | He/Him
-- 📑 Objectives for 2022: Get better stats in my github profile (Already failed) 😃
+- 📑 Objectives for 2023: Become a Fullstack Developer 😃
 
 <!--Github Stats-->
 <div align="center">
