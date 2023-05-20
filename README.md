@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Hi, I'm José Addario. I'm a passionate software engineer, motivated by challenges and always looking to improve myself to deliver better quality code. Most of my career I focused on Backend work, with JAVA as my favorite language where I developed a strong knowledge of Object Oriented Programming, TDD (I really love testing!), Design Patterns and Clean Code.
+I'm a passionate software engineer, motivated by challenges and always looking to improve myself to deliver better quality code. Most of my career I focused on Backend work, with JAVA as my favorite language where I developed a strong knowledge of Object Oriented Programming, TDD (I really love testing!), Design Patterns and Clean Code.
 
 - 💻 Work: Backend developer
 - 🔭 Studying: docker, kubernets e AWS
