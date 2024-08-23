@@ -3,7 +3,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <img src ="https://www.flaticon.com/free-sticker/developer_9394519" width = 60px> **About me**
 
 I'm a passionate software engineer, motivated by challenges and always looking to improve myself to deliver better quality code. Most of my career I focused on Backend work, with JAVA as my favorite language where I developed a strong knowledge of Object Oriented Programming, TDD (I really love testing!), Design Patterns and Clean Code.
 
